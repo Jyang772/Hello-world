@@ -11,8 +11,8 @@ int main()
     {
 
     double x, y;
-    cout << "Wybierz liczbe od 1 do do 5\n";
-    cout << " Dodawanie - 1\n odejmowanie - 2 \n mnozenie - 3\n dzielenie - 4\n wyjdz - 5\n";
+    cout << "Select a choice from 1 to 5";
+    cout << " Adding - 1\n Subtracting - 2 \n Multiplying - 3\n Dividing - 4\n wyjdz - 5\n";
     cin >> i;
 
 
